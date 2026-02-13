@@ -27,7 +27,7 @@ Each output is tailored to platform best practices and sounds human, not AI-gene
 
 ---
 
-### AI Model: Google Gemini 2.0 Flash Experimental
+### AI Model: Google Gemini 2.5 Flash Lite
 **Why**: 
 - Free tier available (60 requests/min, 1500 requests/day)
 - Fast response times (~2-3 seconds for content generation)
