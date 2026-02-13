@@ -103,26 +103,6 @@ Visit `http://localhost:3000`
  1. Improve the UI of the website
  2. Improvement in the Prompt Structure based on more testing.
 
-
-
----
-
-## Time Log
-
-| Phase | Time | Notes |
-|-------|------|-------|
-| Research | 20 min | Research for the content extraction tool and the AI API services |
-| Firecrawl Integration | 30 min | API testing with different blog types, error handling|
-| Gemini AI Integration | 30 min | SDK setup, JSON parsing, response validation |
-| **Prompt Engineering** | 60 min | Structure the prompt according specific platform needs |
-| Frontend UI | 30 min | Tab layout, copy buttons, loading states, mobile responsive |
-| Error Handling | 50 min | User-friendly messages, API key validation and Solving the errors |
-| Testing | 30 min | Tested with different blog URLs on upGrowth|
-| Deployment | 20 min | Vercel setup, environment variables, domain config |
-| Documentation | 30 min | README, inline comments, improvement notes |
-| **Total** | **5 hours** |
-
-
 ---
 
 ## Deployment
